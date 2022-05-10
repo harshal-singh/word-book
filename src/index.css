@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  user-select: none;
+}
+
+:root {
+  --primary: #552bff;
+  --secondary: #26c5f3;
+  --ternary: #282c34;
+  --gray: #727371;
+  --light-gray: #f9f9f9;
+  --white: #ffffff;
+}
+
+@font-face {
+  font-family: "regular";
+  src: url(./fonts/Lato-Regular.ttf);
+}
+
+body {
+  color: var(--light-gray);
+  font-family: "regular";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: var(--ternary);
+}
+
+#root {
+  min-height: 100vh;
+  padding: 80px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
