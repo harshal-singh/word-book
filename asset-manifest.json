@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/word-book/static/css/main.6251008d.css",
+    "main.js": "/word-book/static/js/main.f5bc977b.js",
+    "static/js/787.d63c1f9e.chunk.js": "/word-book/static/js/787.d63c1f9e.chunk.js",
+    "static/media/Lato-Regular.ttf": "/word-book/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
+    "static/media/logo.svg": "/word-book/static/media/logo.5f89cd826a9d50f80c4d223acf7a7b34.svg",
+    "index.html": "/word-book/index.html",
+    "main.6251008d.css.map": "/word-book/static/css/main.6251008d.css.map",
+    "main.f5bc977b.js.map": "/word-book/static/js/main.f5bc977b.js.map",
+    "787.d63c1f9e.chunk.js.map": "/word-book/static/js/787.d63c1f9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6251008d.css",
+    "static/js/main.f5bc977b.js"
+  ]
+}
